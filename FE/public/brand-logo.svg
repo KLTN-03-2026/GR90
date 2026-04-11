@@ -1,0 +1,42 @@
+<svg width="760" height="180" viewBox="0 0 760 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="180" rx="36" fill="#FFF8F1"/>
+  <g transform="translate(26 26)">
+    <rect width="128" height="128" rx="36" fill="url(#bg)"/>
+    <path d="M28 88C44 60 66 44 92 44C105 44 117 47 126 53" stroke="#FFF2E8" stroke-width="12" stroke-linecap="round"/>
+    <path d="M24 106C48 72 74 52 104 52C114 52 123 54 131 59" stroke="#FFD3B0" stroke-width="7" stroke-linecap="round" stroke-dasharray="1 12"/>
+    <circle cx="32" cy="104" r="10" fill="#FFF8F2"/>
+    <circle cx="32" cy="104" r="4.5" fill="#2C170F"/>
+    <circle cx="104" cy="50" r="9" fill="#FFF8F2"/>
+    <circle cx="104" cy="50" r="4" fill="#2C170F"/>
+    <rect x="40" y="38" width="58" height="54" rx="18" fill="url(#bus)"/>
+    <rect x="48" y="46" width="42" height="17" rx="8.5" fill="#FFF4EA"/>
+    <rect x="48" y="68" width="16" height="9" rx="4.5" fill="#D36A2E"/>
+    <rect x="68" y="68" width="22" height="9" rx="4.5" fill="#D36A2E"/>
+    <circle cx="55" cy="94" r="8" fill="#FFF4EA"/>
+    <circle cx="84" cy="94" r="8" fill="#FFF4EA"/>
+    <circle cx="55" cy="94" r="3.8" fill="#2C170F"/>
+    <circle cx="84" cy="94" r="3.8" fill="#2C170F"/>
+  </g>
+
+  <text x="182" y="78" fill="#2A160E" font-size="42" font-weight="700" font-family="Oswald, Arial, sans-serif" letter-spacing="0.02em">
+    HE THONG XE BUYT
+  </text>
+  <text x="182" y="120" fill="#D66124" font-size="50" font-weight="700" font-family="Oswald, Arial, sans-serif" letter-spacing="0.04em">
+    DA NANG
+  </text>
+  <text x="184" y="148" fill="#7C6658" font-size="20" font-weight="400" font-family="Oswald, Arial, sans-serif" letter-spacing="0.06em">
+    TRA CUU TUYEN . TRAM . HANH TRINH
+  </text>
+
+  <defs>
+    <linearGradient id="bg" x1="14" y1="8" x2="112" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFB15A"/>
+      <stop offset="0.52" stop-color="#FF7E33"/>
+      <stop offset="1" stop-color="#C94A16"/>
+    </linearGradient>
+    <linearGradient id="bus" x1="42" y1="40" x2="96" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2C170F"/>
+      <stop offset="1" stop-color="#5E3118"/>
+    </linearGradient>
+  </defs>
+</svg>
