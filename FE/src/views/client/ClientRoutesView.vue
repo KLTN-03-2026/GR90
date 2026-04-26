@@ -8,7 +8,7 @@
           <p>Tìm nhanh theo mã tuyến, tên tuyến, điểm đầu, điểm cuối hoặc loại tuyến.</p>
         </div>
       </div>
-
+<!-- Tạo nút tìm kiếm và click button sẽ gọi hàm "loadRoutes" -->
       <el-card shadow="never" class="search-card">
         <el-form @submit.prevent="loadRoutes">
           <div class="search-grid">
